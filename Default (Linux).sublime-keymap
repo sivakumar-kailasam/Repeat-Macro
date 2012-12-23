@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+alt+shift+r"], "command": "repeat_macro" }
+]
