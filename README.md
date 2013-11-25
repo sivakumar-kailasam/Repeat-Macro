@@ -7,13 +7,19 @@ Coming from Notepad++ it was really frustrating when I had to hold down on the r
 
 Definitely open to suggestions and ideas to improve this :)
 
+## Preview
+
+![Preview] (https://github.com/sivakumar-kailasam/Repeat-Macro/raw/master/preview.png)
+
+--------------
+
 ## How to use
 Press default shortcut
 
 * `Windows` and `Linux`: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>
 * `Mac OS`: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>
 
-or search for 'RepeatMacro' in command browser
+or search for `RepeatMacro` in command browser
 
 --------------
 
