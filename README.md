@@ -14,13 +14,12 @@ Definitely open to suggestions and ideas to improve this :)
 --------------
 
 ## How to use
-Press default shortcut
 * Record a macro first with <kbd>Ctrl</kbd>+<kbd>Q</kbd> and stop recording with the same shortcut
 * `Windows` and `Linux`: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>
 * `Mac OS`: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>
+* `command browser`: search for `RepeatMacro`
+* Enter the number of lines you want to repeat this macro in the current file
 
-or search for `RepeatMacro` in command browser
-* Then enter the number of lines you want to repeat this macro in the current file
 --------------
 
 ## How to install
