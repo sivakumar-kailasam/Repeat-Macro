@@ -11,8 +11,8 @@ class RepeatMacroCommand(sublime_plugin.TextCommand):
     def __execute(self, text):
         if not text.isdigit() and len(text) > 0:
             print("Repeat Macro | Wrong number")
-        elif len(text) > 0 and int(text) > (self.__get_last_line() - self.__get_current_line()):
-            print("Repeat Macro | Number too big (bigger than number of lines in file)")
+        # elif len(text) > 0 and int(text) > (self.__get_last_line() - self.__get_current_line()):
+        #     print("Repeat Macro | Number too big (bigger than number of lines in file)")
         else:
             current_line = self.__get_current_line()
             last_line = current_line + int(text) if len(text) > 0 else self.__get_last_line()
