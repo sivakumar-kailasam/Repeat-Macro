@@ -9,7 +9,7 @@ Definitely open to suggestions and ideas to improve this :)
 
 ## Preview
 
-![Preview] (https://github.com/sivakumar-kailasam/Repeat-Macro/raw/master/preview.png)
+<img src="https://github.com/sivakumar-kailasam/Repeat-Macro/raw/master/preview.png" >
 
 --------------
 
